@@ -5,7 +5,7 @@ Gulp task boilerplate
 
 ## Installation
 ```sh
-npm install --save-dev wunderkraut/gulp-task-boilerplate.
+npm install --save-dev wunderkraut/gulp-task-boilerplate
 ```
 
 ## Usage
