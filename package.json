@@ -1,0 +1,19 @@
+{
+  "name": "gulp-task-boilerplate",
+  "version": "0.0.1",
+  "description": "A gulp task boilerplate to pack several tasks into one node module.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wunderkraut/gulp-task-boilerplate"
+  },
+  "bugs": {
+    "url": "https://github.com/wunderkraut/gulp-task-boilerplate/issues"
+  },
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "lodash.defaultsdeep": "^3.10.0",
+    "path": "^0.12.7"
+  },
+  "license": "MIT"
+}
